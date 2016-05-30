@@ -1,0 +1,14 @@
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\bin\Debug\Media Player Tres.exe.config
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\obj\Debug\Interop.WMPLib.dll
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\obj\Debug\AxInterop.WMPLib.dll
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\obj\Debug\Media Player Tres.csproj.ResolveComReference.cache
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\bin\Debug\Media Player Tres.exe
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\bin\Debug\Media Player Tres.pdb
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\bin\Debug\Interop.WMPLib.dll
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\bin\Debug\AxInterop.WMPLib.dll
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\obj\Debug\Media Player Tres.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\obj\Debug\Media_Player_Tres.MainWindow.resources
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\obj\Debug\Media_Player_Tres.Properties.Resources.resources
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\obj\Debug\Media Player Tres.csproj.GenerateResource.Cache
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\obj\Debug\Media Player Tres.exe
+\\psf\Home\Downloads\~ Spring '16 ~\Capstone\Project\Media Player Tres\Media Player Tres\obj\Debug\Media Player Tres.pdb
